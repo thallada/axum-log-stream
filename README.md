@@ -3,6 +3,8 @@
 An example axum server that serves a page with a live stream of the server's
 tracing log.
 
+https://github.com/thallada/axum-log-stream/assets/1505923/505b4d85-748c-4bb7-992d-d6f1dac314ad
+
 ## Setup
 
 A `.env` file should be at the root of the directory. Leave the default or
