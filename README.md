@@ -1,6 +1,6 @@
 # axum-log-stream
 
-An example axum server that serves a live stream of it's own tracing log to an HTML page using [Hotwire Turbo Streams](https://turbo.hotwired.dev/handbook/streams).
+An example axum server that serves a live stream of its own tracing log to an HTML page using [Hotwire Turbo Streams](https://turbo.hotwired.dev/handbook/streams).
 
 https://github.com/thallada/axum-log-stream/assets/1505923/505b4d85-748c-4bb7-992d-d6f1dac314ad
 
